@@ -2,11 +2,13 @@
 PANIC Button using AWS IoT button and IFTTT which can trigger and make a call (Node js Version).
 
 # Requirements Needed
+
 1. AWS IoT Button
 2. AWS account
 3. IFTTT account
 4. Android mobile phone
-Register your AWS IoT Button using App
+
+# Register your AWS IoT Button using App
 *This application is not available in india, So if you need this you should download it from the internet as sdk(for
 indians only)
 
